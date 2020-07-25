@@ -1,1 +1,1 @@
-![Image of me](https://media.giphy.com/media/UQgzuRfVlA21oadB8v/giphy.gif)
+![Image of me](https://github.com/WJimmyCook/wjimmycook/blob/master/me.gif?raw=true)
