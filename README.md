@@ -1,1 +1,1 @@
-![Image of me](me.gif)
+![Image of me](wjimmycook/me.gif)
